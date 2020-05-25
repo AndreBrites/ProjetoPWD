@@ -1,7 +1,5 @@
 # Especificação do sistema
 
-## Definição da Lógica de Negócio
-
 Este sistema é um jogo de tabuleiro para um ou dois jogadores que consiste em um conjunto de peças numeradas de 1 a 9 e o(s) jogador(s) jogam com dois dados com o objetivo de virar as peças numeradas.
 O jogo acaba quando todas a peças estão viradas ou quando o valor dos números não permita virar mais nenhuma peça.
 O jogo funciona por turnos.
